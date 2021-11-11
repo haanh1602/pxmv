@@ -152,8 +152,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.BroFlowBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/BroFlowBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 95e0f8c7b185257448b184ac18e73d03,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 95e0f8c7b185257448b184ac18e73d03, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 95e0f8c7b185257448b184ac18e73d03, type: 3}
     - {fileID: 6591478365344907407, guid: 95e0f8c7b185257448b184ac18e73d03, type: 3}
@@ -168,8 +167,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.BroFlowPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/BroFlowPink.png
-    Sprite: {fileID: -8137581963233685907, guid: a10f8aa10d2b63e4cb7120e100ff7c48,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: a10f8aa10d2b63e4cb7120e100ff7c48, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: a10f8aa10d2b63e4cb7120e100ff7c48, type: 3}
     - {fileID: 6591478365344907407, guid: a10f8aa10d2b63e4cb7120e100ff7c48, type: 3}
@@ -184,8 +182,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.BroFlowSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/BroFlowSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: 94e902b4b9185e346bdd50273c60a1f1,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 94e902b4b9185e346bdd50273c60a1f1, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 94e902b4b9185e346bdd50273c60a1f1, type: 3}
     - {fileID: 6591478365344907407, guid: 94e902b4b9185e346bdd50273c60a1f1, type: 3}
@@ -284,8 +281,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.FringeUpBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/FringeUpBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 8121a62e051ac4a47a4c136563b8edd0,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 8121a62e051ac4a47a4c136563b8edd0, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 8121a62e051ac4a47a4c136563b8edd0, type: 3}
     - {fileID: 6591478365344907407, guid: 8121a62e051ac4a47a4c136563b8edd0, type: 3}
@@ -300,8 +296,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.FringeUpPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/FringeUpPink.png
-    Sprite: {fileID: -8137581963233685907, guid: f9bedc88b9c2c5244ab679c84edcf55b,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: f9bedc88b9c2c5244ab679c84edcf55b, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: f9bedc88b9c2c5244ab679c84edcf55b, type: 3}
     - {fileID: 6591478365344907407, guid: f9bedc88b9c2c5244ab679c84edcf55b, type: 3}
@@ -316,8 +311,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.FringeUpSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/FringeUpSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: 674ed1a88a3adf04386e12a405876104,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 674ed1a88a3adf04386e12a405876104, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 674ed1a88a3adf04386e12a405876104, type: 3}
     - {fileID: 6591478365344907407, guid: 674ed1a88a3adf04386e12a405876104, type: 3}
@@ -327,6 +321,42 @@ MonoBehaviour:
     Meta: 
     Tags:
     - NoPaint
+  - Name: Hair_1 1
+    Collection: Basic
+    Edition: FantasyHeroes
+    Id: FantasyHeroes.Basic.Hair.Hair_1 1
+    Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Hair_1 1.png
+    Sprite: {fileID: 6687808186633305178, guid: f712f9ac690f71549b6b411a2191acbb, type: 3}
+    Sprites:
+    - {fileID: 6687808186633305178, guid: f712f9ac690f71549b6b411a2191acbb, type: 3}
+    Multiple: 1
+    Hash: 6489b86e0d1b5f22fbf3ba99085ad1b0
+    Meta: 
+    Tags: []
+  - Name: Hair_2 1
+    Collection: Basic
+    Edition: FantasyHeroes
+    Id: FantasyHeroes.Basic.Hair.Hair_2 1
+    Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Hair_2 1.png
+    Sprite: {fileID: 1390260628574656683, guid: 7a3d2a065388fcd49bf713d61424a53f, type: 3}
+    Sprites:
+    - {fileID: 1390260628574656683, guid: 7a3d2a065388fcd49bf713d61424a53f, type: 3}
+    Multiple: 1
+    Hash: 2abeb656d2ab45581f5ac6f2256821fb
+    Meta: 
+    Tags: []
+  - Name: Hair_3 1
+    Collection: Basic
+    Edition: FantasyHeroes
+    Id: FantasyHeroes.Basic.Hair.Hair_3 1
+    Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Hair_3 1.png
+    Sprite: {fileID: -7971705539767324194, guid: bf4aebc0a53ef674a803a1ebb68a543f, type: 3}
+    Sprites:
+    - {fileID: -7971705539767324194, guid: bf4aebc0a53ef674a803a1ebb68a543f, type: 3}
+    Multiple: 1
+    Hash: 2e8e9e50270bf9b99c11728691c43d98
+    Meta: 
+    Tags: []
   - Name: MessyMedium
     Collection: Basic
     Edition: FantasyHeroes
@@ -388,8 +418,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.PigtailBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/PigtailBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 7dd461768b5021444bbf67d44bab0b33,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 7dd461768b5021444bbf67d44bab0b33, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 7dd461768b5021444bbf67d44bab0b33, type: 3}
     - {fileID: 6591478365344907407, guid: 7dd461768b5021444bbf67d44bab0b33, type: 3}
@@ -404,8 +433,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.PigtailPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/PigtailPink.png
-    Sprite: {fileID: -8137581963233685907, guid: f66a71713e5de1440aaf0ee43a2e07bd,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: f66a71713e5de1440aaf0ee43a2e07bd, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: f66a71713e5de1440aaf0ee43a2e07bd, type: 3}
     - {fileID: 6591478365344907407, guid: f66a71713e5de1440aaf0ee43a2e07bd, type: 3}
@@ -420,8 +448,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.PigtailSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/PigtailSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: aa7c17a26e8c3b14a871317587219f8f,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: aa7c17a26e8c3b14a871317587219f8f, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: aa7c17a26e8c3b14a871317587219f8f, type: 3}
     - {fileID: 6591478365344907407, guid: aa7c17a26e8c3b14a871317587219f8f, type: 3}
@@ -492,8 +519,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.ShortTailBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/ShortTailBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 88902e6054249194a9fa130f35f16b17,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 88902e6054249194a9fa130f35f16b17, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 88902e6054249194a9fa130f35f16b17, type: 3}
     - {fileID: 6591478365344907407, guid: 88902e6054249194a9fa130f35f16b17, type: 3}
@@ -508,8 +534,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.ShortTailPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/ShortTailPink.png
-    Sprite: {fileID: -8137581963233685907, guid: e09f1370ce52293418e36350c6159742,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: e09f1370ce52293418e36350c6159742, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: e09f1370ce52293418e36350c6159742, type: 3}
     - {fileID: 6591478365344907407, guid: e09f1370ce52293418e36350c6159742, type: 3}
@@ -524,8 +549,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.ShortTailSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/ShortTailSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: c412691657a842443801b4565afac4e6,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: c412691657a842443801b4565afac4e6, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: c412691657a842443801b4565afac4e6, type: 3}
     - {fileID: 6591478365344907407, guid: c412691657a842443801b4565afac4e6, type: 3}
@@ -554,8 +578,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SideBangsBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SideBangsBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: ef537f3bdd70dc149be8013efa13fbb6,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: ef537f3bdd70dc149be8013efa13fbb6, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: ef537f3bdd70dc149be8013efa13fbb6, type: 3}
     - {fileID: 6591478365344907407, guid: ef537f3bdd70dc149be8013efa13fbb6, type: 3}
@@ -570,8 +593,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SideBangsPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SideBangsPink.png
-    Sprite: {fileID: -8137581963233685907, guid: 64e35d5a64809f744aa71038c00481ca,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 64e35d5a64809f744aa71038c00481ca, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 64e35d5a64809f744aa71038c00481ca, type: 3}
     - {fileID: 6591478365344907407, guid: 64e35d5a64809f744aa71038c00481ca, type: 3}
@@ -586,8 +608,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SideBangsSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SideBangsSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: 2ca2fdd39b5fb5b4a8b805686f015726,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 2ca2fdd39b5fb5b4a8b805686f015726, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 2ca2fdd39b5fb5b4a8b805686f015726, type: 3}
     - {fileID: 6591478365344907407, guid: 2ca2fdd39b5fb5b4a8b805686f015726, type: 3}
@@ -616,8 +637,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SlickBackBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SlickBackBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 657a2dbd22bb9d4449a60c924382bebe,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 657a2dbd22bb9d4449a60c924382bebe, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 657a2dbd22bb9d4449a60c924382bebe, type: 3}
     - {fileID: 6591478365344907407, guid: 657a2dbd22bb9d4449a60c924382bebe, type: 3}
@@ -632,8 +652,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SlickBackPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SlickBackPink.png
-    Sprite: {fileID: -8137581963233685907, guid: 5904cea5b5e6352478076279ffacd939,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 5904cea5b5e6352478076279ffacd939, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 5904cea5b5e6352478076279ffacd939, type: 3}
     - {fileID: 6591478365344907407, guid: 5904cea5b5e6352478076279ffacd939, type: 3}
@@ -648,8 +667,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.SlickBackSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/SlickBackSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: 58d2484d4bc98c1448fd521789a6f69f,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 58d2484d4bc98c1448fd521789a6f69f, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 58d2484d4bc98c1448fd521789a6f69f, type: 3}
     - {fileID: 6591478365344907407, guid: 58d2484d4bc98c1448fd521789a6f69f, type: 3}
@@ -720,8 +738,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.TwintalesBlue
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/TwintalesBlue.png
-    Sprite: {fileID: -8137581963233685907, guid: 25db7b0436435fd478677f1c88925389,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 25db7b0436435fd478677f1c88925389, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 25db7b0436435fd478677f1c88925389, type: 3}
     - {fileID: 6591478365344907407, guid: 25db7b0436435fd478677f1c88925389, type: 3}
@@ -736,8 +753,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.TwintalesPink
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/TwintalesPink.png
-    Sprite: {fileID: -8137581963233685907, guid: 38e09bfd6169f9445a3147bf2de94969,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 38e09bfd6169f9445a3147bf2de94969, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 38e09bfd6169f9445a3147bf2de94969, type: 3}
     - {fileID: 6591478365344907407, guid: 38e09bfd6169f9445a3147bf2de94969, type: 3}
@@ -752,8 +768,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Gradient [NoPaint].Hair.TwintalesSunny
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Gradient [NoPaint]/TwintalesSunny.png
-    Sprite: {fileID: -8137581963233685907, guid: 3dd90942f3211c44db02cabd6b96e2aa,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 3dd90942f3211c44db02cabd6b96e2aa, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 3dd90942f3211c44db02cabd6b96e2aa, type: 3}
     - {fileID: 6591478365344907407, guid: 3dd90942f3211c44db02cabd6b96e2aa, type: 3}
@@ -768,8 +783,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type1
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type1.png
-    Sprite: {fileID: -8137581963233685907, guid: d33e43005b1aca04a88836a88f0ec4e0,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: d33e43005b1aca04a88836a88f0ec4e0, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: d33e43005b1aca04a88836a88f0ec4e0, type: 3}
     - {fileID: 6591478365344907407, guid: d33e43005b1aca04a88836a88f0ec4e0, type: 3}
@@ -872,8 +886,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type16 [HideEars]
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type16 [HideEars].png
-    Sprite: {fileID: -8137581963233685907, guid: b3a6144926cf0c843b40d945f463febb,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: b3a6144926cf0c843b40d945f463febb, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: b3a6144926cf0c843b40d945f463febb, type: 3}
     - {fileID: 6591478365344907407, guid: b3a6144926cf0c843b40d945f463febb, type: 3}
@@ -888,8 +901,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type17
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type17.png
-    Sprite: {fileID: -8137581963233685907, guid: 8a210c9d800c63e41ae3bf8af30a52df,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 8a210c9d800c63e41ae3bf8af30a52df, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 8a210c9d800c63e41ae3bf8af30a52df, type: 3}
     - {fileID: 6591478365344907407, guid: 8a210c9d800c63e41ae3bf8af30a52df, type: 3}
@@ -903,8 +915,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type18
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type18.png
-    Sprite: {fileID: -8137581963233685907, guid: 8d0e4ccc7de17be4aafa577d5104e39e,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 8d0e4ccc7de17be4aafa577d5104e39e, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 8d0e4ccc7de17be4aafa577d5104e39e, type: 3}
     - {fileID: 6591478365344907407, guid: 8d0e4ccc7de17be4aafa577d5104e39e, type: 3}
@@ -918,8 +929,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type19 [HideEars]
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type19 [HideEars].png
-    Sprite: {fileID: -8137581963233685907, guid: 641fdfeb14073a746965198f1051ddbf,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 641fdfeb14073a746965198f1051ddbf, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 641fdfeb14073a746965198f1051ddbf, type: 3}
     - {fileID: 6591478365344907407, guid: 641fdfeb14073a746965198f1051ddbf, type: 3}
@@ -934,8 +944,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type2
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type2.png
-    Sprite: {fileID: -8137581963233685907, guid: 36aa129f6392eae46a92f43976ad77a7,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 36aa129f6392eae46a92f43976ad77a7, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 36aa129f6392eae46a92f43976ad77a7, type: 3}
     - {fileID: 6591478365344907407, guid: 36aa129f6392eae46a92f43976ad77a7, type: 3}
@@ -949,8 +958,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type20
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type20.png
-    Sprite: {fileID: -8137581963233685907, guid: ef9b3d875e734c946a9dc877026326b1,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: ef9b3d875e734c946a9dc877026326b1, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: ef9b3d875e734c946a9dc877026326b1, type: 3}
     - {fileID: 6591478365344907407, guid: ef9b3d875e734c946a9dc877026326b1, type: 3}
@@ -964,8 +972,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type21
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type21.png
-    Sprite: {fileID: -8137581963233685907, guid: da7c542b00d67ab4d90566d8eab2f20d,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: da7c542b00d67ab4d90566d8eab2f20d, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: da7c542b00d67ab4d90566d8eab2f20d, type: 3}
     - {fileID: 6591478365344907407, guid: da7c542b00d67ab4d90566d8eab2f20d, type: 3}
@@ -979,8 +986,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type3
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type3.png
-    Sprite: {fileID: -8137581963233685907, guid: 628c65b60acab2e4188658f3ec34eb9f,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 628c65b60acab2e4188658f3ec34eb9f, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 628c65b60acab2e4188658f3ec34eb9f, type: 3}
     - {fileID: 6591478365344907407, guid: 628c65b60acab2e4188658f3ec34eb9f, type: 3}
@@ -994,8 +1000,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type4
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type4.png
-    Sprite: {fileID: -8137581963233685907, guid: 73d17174725a7b04385637b97a5fa7ad,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 73d17174725a7b04385637b97a5fa7ad, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 73d17174725a7b04385637b97a5fa7ad, type: 3}
     - {fileID: 6591478365344907407, guid: 73d17174725a7b04385637b97a5fa7ad, type: 3}
@@ -1009,8 +1014,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type5
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type5.png
-    Sprite: {fileID: -8137581963233685907, guid: 981735c10f9476e4d8ad6cfbe9215532,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 981735c10f9476e4d8ad6cfbe9215532, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 981735c10f9476e4d8ad6cfbe9215532, type: 3}
     - {fileID: 6591478365344907407, guid: 981735c10f9476e4d8ad6cfbe9215532, type: 3}
@@ -1024,8 +1028,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type6
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type6.png
-    Sprite: {fileID: -8137581963233685907, guid: 0377c75d2c9e6e3428d2204ca837fefc,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: 0377c75d2c9e6e3428d2204ca837fefc, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: 0377c75d2c9e6e3428d2204ca837fefc, type: 3}
     - {fileID: 6591478365344907407, guid: 0377c75d2c9e6e3428d2204ca837fefc, type: 3}
@@ -1039,8 +1042,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type7
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type7.png
-    Sprite: {fileID: -8137581963233685907, guid: e08b3e7e51123b040804ce656d3b5ed7,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: e08b3e7e51123b040804ce656d3b5ed7, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: e08b3e7e51123b040804ce656d3b5ed7, type: 3}
     - {fileID: 6591478365344907407, guid: e08b3e7e51123b040804ce656d3b5ed7, type: 3}
@@ -1054,8 +1056,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type8
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type8.png
-    Sprite: {fileID: -8137581963233685907, guid: e45ae84c034bf6641bbfe0e3ba02afb5,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: e45ae84c034bf6641bbfe0e3ba02afb5, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: e45ae84c034bf6641bbfe0e3ba02afb5, type: 3}
     - {fileID: 6591478365344907407, guid: e45ae84c034bf6641bbfe0e3ba02afb5, type: 3}
@@ -1069,8 +1070,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Hair.Type9
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Hair/Basic/Type9.png
-    Sprite: {fileID: -8137581963233685907, guid: d657c382aca3c0d4aa83940cd23db008,
-      type: 3}
+    Sprite: {fileID: -8137581963233685907, guid: d657c382aca3c0d4aa83940cd23db008, type: 3}
     Sprites:
     - {fileID: -8137581963233685907, guid: d657c382aca3c0d4aa83940cd23db008, type: 3}
     - {fileID: 6591478365344907407, guid: d657c382aca3c0d4aa83940cd23db008, type: 3}
@@ -1085,8 +1085,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Beard.Type1
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Beard/Basic/Type1.png
-    Sprite: {fileID: 6591478365344907407, guid: 2ad7c91ea697fea4ba69310a62559e90,
-      type: 3}
+    Sprite: {fileID: 6591478365344907407, guid: 2ad7c91ea697fea4ba69310a62559e90, type: 3}
     Sprites:
     - {fileID: 6591478365344907407, guid: 2ad7c91ea697fea4ba69310a62559e90, type: 3}
     - {fileID: 8968894577945027273, guid: 2ad7c91ea697fea4ba69310a62559e90, type: 3}
@@ -1099,8 +1098,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Beard.Type2
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/BodyParts/Beard/Basic/Type2.png
-    Sprite: {fileID: 6591478365344907407, guid: b2415f038c8b1484db07ddd3445b204b,
-      type: 3}
+    Sprite: {fileID: 6591478365344907407, guid: b2415f038c8b1484db07ddd3445b204b, type: 3}
     Sprites:
     - {fileID: 6591478365344907407, guid: b2415f038c8b1484db07ddd3445b204b, type: 3}
     - {fileID: 8968894577945027273, guid: b2415f038c8b1484db07ddd3445b204b, type: 3}
@@ -5089,8 +5087,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Armor.RaiderArmor
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Armor/Basic/RaiderArmor.png
-    Sprite: {fileID: -2528827736032361103, guid: f8861642d632d4243a460f08f1ff8583,
-      type: 3}
+    Sprite: {fileID: -2528827736032361103, guid: f8861642d632d4243a460f08f1ff8583, type: 3}
     Sprites:
     - {fileID: -2528827736032361103, guid: f8861642d632d4243a460f08f1ff8583, type: 3}
     - {fileID: -5717726902827565152, guid: f8861642d632d4243a460f08f1ff8583, type: 3}
@@ -9222,8 +9219,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Bow.BoneBow
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Bow/Basic/BoneBow.png
-    Sprite: {fileID: 7034423813313189624, guid: 99840cb4e0918d944948f8d07f7d96de,
-      type: 3}
+    Sprite: {fileID: 7034423813313189624, guid: 99840cb4e0918d944948f8d07f7d96de, type: 3}
     Sprites:
     - {fileID: 7034423813313189624, guid: 99840cb4e0918d944948f8d07f7d96de, type: 3}
     - {fileID: -4746564685177126027, guid: 99840cb4e0918d944948f8d07f7d96de, type: 3}
@@ -9829,8 +9825,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.CandyCannon
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/CandyCannon.png
-    Sprite: {fileID: -768287472138149725, guid: 4c6d1938fb8419342bffd942c1dc56ea,
-      type: 3}
+    Sprite: {fileID: -768287472138149725, guid: 4c6d1938fb8419342bffd942c1dc56ea, type: 3}
     Sprites:
     - {fileID: -768287472138149725, guid: 4c6d1938fb8419342bffd942c1dc56ea, type: 3}
     - {fileID: -9212286445950041963, guid: 4c6d1938fb8419342bffd942c1dc56ea, type: 3}
@@ -9843,8 +9838,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.CombatPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/CombatPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 9621e4bd2467ef34694429c0d0905555,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 9621e4bd2467ef34694429c0d0905555, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 9621e4bd2467ef34694429c0d0905555, type: 3}
     - {fileID: 21300006, guid: 9621e4bd2467ef34694429c0d0905555, type: 3}
@@ -9857,8 +9851,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.DoubleBarrelledPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/DoubleBarrelledPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 3ea3979093f167244ae9fd096faa83ce,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 3ea3979093f167244ae9fd096faa83ce, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 3ea3979093f167244ae9fd096faa83ce, type: 3}
     - {fileID: 21300006, guid: 3ea3979093f167244ae9fd096faa83ce, type: 3}
@@ -9871,8 +9864,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.DoubleBarrelledShotgun
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/DoubleBarrelledShotgun.png
-    Sprite: {fileID: -768287472138149725, guid: 9af4547542536d1478b03b52a9682f38,
-      type: 3}
+    Sprite: {fileID: -768287472138149725, guid: 9af4547542536d1478b03b52a9682f38, type: 3}
     Sprites:
     - {fileID: -768287472138149725, guid: 9af4547542536d1478b03b52a9682f38, type: 3}
     - {fileID: -9212286445950041963, guid: 9af4547542536d1478b03b52a9682f38, type: 3}
@@ -9885,8 +9877,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.FlintlockPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/FlintlockPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 461422632f3ac0f46b502f9df30ee4f3,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 461422632f3ac0f46b502f9df30ee4f3, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 461422632f3ac0f46b502f9df30ee4f3, type: 3}
     - {fileID: 21300006, guid: 461422632f3ac0f46b502f9df30ee4f3, type: 3}
@@ -9899,8 +9890,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.FourBarrelledPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/FourBarrelledPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 37e8e8244d45a174db04da8aa8fb1707,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 37e8e8244d45a174db04da8aa8fb1707, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 37e8e8244d45a174db04da8aa8fb1707, type: 3}
     - {fileID: 21300006, guid: 37e8e8244d45a174db04da8aa8fb1707, type: 3}
@@ -9913,8 +9903,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.HarpoonGun
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/HarpoonGun.png
-    Sprite: {fileID: 4319395737909131107, guid: b49b1f46eaa98e44f9084dc3908d218c,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: b49b1f46eaa98e44f9084dc3908d218c, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: b49b1f46eaa98e44f9084dc3908d218c, type: 3}
     - {fileID: 21300006, guid: b49b1f46eaa98e44f9084dc3908d218c, type: 3}
@@ -9927,8 +9916,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.HomemadeWickPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/HomemadeWickPistol.png
-    Sprite: {fileID: -768287472138149725, guid: 0cc91dd6a31b3284e8ec1bee14bdaff6,
-      type: 3}
+    Sprite: {fileID: -768287472138149725, guid: 0cc91dd6a31b3284e8ec1bee14bdaff6, type: 3}
     Sprites:
     - {fileID: -768287472138149725, guid: 0cc91dd6a31b3284e8ec1bee14bdaff6, type: 3}
     - {fileID: -9212286445950041963, guid: 0cc91dd6a31b3284e8ec1bee14bdaff6, type: 3}
@@ -9941,8 +9929,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.InquisitorShotgun
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/InquisitorShotgun.png
-    Sprite: {fileID: 4319395737909131107, guid: c336dd2e7aa511948b9e90834a88e859,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: c336dd2e7aa511948b9e90834a88e859, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: c336dd2e7aa511948b9e90834a88e859, type: 3}
     - {fileID: 21300006, guid: c336dd2e7aa511948b9e90834a88e859, type: 3}
@@ -9955,8 +9942,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.LadiesPocketFlintlock
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/LadiesPocketFlintlock.png
-    Sprite: {fileID: 4319395737909131107, guid: fcbb11417ef839b4a985fb8020fff0b0,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: fcbb11417ef839b4a985fb8020fff0b0, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: fcbb11417ef839b4a985fb8020fff0b0, type: 3}
     - {fileID: 21300006, guid: fcbb11417ef839b4a985fb8020fff0b0, type: 3}
@@ -9969,8 +9955,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.LongBarreledPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/LongBarreledPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 790ad1876f5355848b74f229d08e6827,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 790ad1876f5355848b74f229d08e6827, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 790ad1876f5355848b74f229d08e6827, type: 3}
     - {fileID: 21300006, guid: 790ad1876f5355848b74f229d08e6827, type: 3}
@@ -9983,8 +9968,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.MechanizedPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/MechanizedPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 16966b28a1c78cd45be5df0b2761afab,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 16966b28a1c78cd45be5df0b2761afab, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 16966b28a1c78cd45be5df0b2761afab, type: 3}
     - {fileID: 21300006, guid: 16966b28a1c78cd45be5df0b2761afab, type: 3}
@@ -9997,8 +9981,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.Musket
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/Musket.png
-    Sprite: {fileID: -768287472138149725, guid: 712bf18a779eb7844bbd1698ae215f54,
-      type: 3}
+    Sprite: {fileID: -768287472138149725, guid: 712bf18a779eb7844bbd1698ae215f54, type: 3}
     Sprites:
     - {fileID: -768287472138149725, guid: 712bf18a779eb7844bbd1698ae215f54, type: 3}
     - {fileID: -9212286445950041963, guid: 712bf18a779eb7844bbd1698ae215f54, type: 3}
@@ -10011,8 +9994,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.OldFlintlockPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/OldFlintlockPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 816473b6da5d8064b8d1f52013dd9844,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 816473b6da5d8064b8d1f52013dd9844, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 816473b6da5d8064b8d1f52013dd9844, type: 3}
     - {fileID: 21300006, guid: 816473b6da5d8064b8d1f52013dd9844, type: 3}
@@ -10025,8 +10007,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.Revolver
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/Revolver.png
-    Sprite: {fileID: 4319395737909131107, guid: ccee67f8ce5c80e409415fd851e04e7c,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: ccee67f8ce5c80e409415fd851e04e7c, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: ccee67f8ce5c80e409415fd851e04e7c, type: 3}
     - {fileID: 21300006, guid: ccee67f8ce5c80e409415fd851e04e7c, type: 3}
@@ -10039,8 +10020,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.RustedMortair
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/RustedMortair.png
-    Sprite: {fileID: 4319395737909131107, guid: 0a1184d45c4c61b46b01d0bf206ab92a,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 0a1184d45c4c61b46b01d0bf206ab92a, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 0a1184d45c4c61b46b01d0bf206ab92a, type: 3}
     - {fileID: 21300006, guid: 0a1184d45c4c61b46b01d0bf206ab92a, type: 3}
@@ -10053,8 +10033,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.RustedShotgun
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/RustedShotgun.png
-    Sprite: {fileID: -768287472138149725, guid: 161c8f4d4fe886f429fca4d4c67cf84f,
-      type: 3}
+    Sprite: {fileID: -768287472138149725, guid: 161c8f4d4fe886f429fca4d4c67cf84f, type: 3}
     Sprites:
     - {fileID: -768287472138149725, guid: 161c8f4d4fe886f429fca4d4c67cf84f, type: 3}
     - {fileID: -9212286445950041963, guid: 161c8f4d4fe886f429fca4d4c67cf84f, type: 3}
@@ -10067,8 +10046,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.SawedOffShotgun
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/SawedOffShotgun.png
-    Sprite: {fileID: 4319395737909131107, guid: 73cb0b006ee3cfc47929657184942f95,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 73cb0b006ee3cfc47929657184942f95, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 73cb0b006ee3cfc47929657184942f95, type: 3}
     - {fileID: 21300006, guid: 73cb0b006ee3cfc47929657184942f95, type: 3}
@@ -10081,8 +10059,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.Scopetta
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/Scopetta.png
-    Sprite: {fileID: 4319395737909131107, guid: 9c552341f7432fd4b93fab67cdf4f0cf,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 9c552341f7432fd4b93fab67cdf4f0cf, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 9c552341f7432fd4b93fab67cdf4f0cf, type: 3}
     - {fileID: 21300006, guid: 9c552341f7432fd4b93fab67cdf4f0cf, type: 3}
@@ -10095,8 +10072,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.ShortFlintlockPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/ShortFlintlockPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 8641f2edab7747144bd4948fb935c474,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 8641f2edab7747144bd4948fb935c474, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 8641f2edab7747144bd4948fb935c474, type: 3}
     - {fileID: 21300006, guid: 8641f2edab7747144bd4948fb935c474, type: 3}
@@ -10109,8 +10085,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.SteamPunkPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/SteamPunkPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: c0d0c3386b64ed84d8098454e44e7187,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: c0d0c3386b64ed84d8098454e44e7187, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: c0d0c3386b64ed84d8098454e44e7187, type: 3}
     - {fileID: 21300006, guid: c0d0c3386b64ed84d8098454e44e7187, type: 3}
@@ -10123,8 +10098,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.Trombone
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/Trombone.png
-    Sprite: {fileID: 4319395737909131107, guid: 0b96071aa3933d946884a5913d0f099e,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 0b96071aa3933d946884a5913d0f099e, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 0b96071aa3933d946884a5913d0f099e, type: 3}
     - {fileID: 21300006, guid: 0b96071aa3933d946884a5913d0f099e, type: 3}
@@ -10137,8 +10111,7 @@ MonoBehaviour:
     Edition: FantasyHeroes
     Id: FantasyHeroes.Basic.Firearm1H.WickPistol
     Path: Assets/HeroEditor4D/FantasyHeroes/Sprites/Equipment/Firearm1H/Basic/WickPistol.png
-    Sprite: {fileID: 4319395737909131107, guid: 476bf39a2e462b049a540db07ee339cb,
-      type: 3}
+    Sprite: {fileID: 4319395737909131107, guid: 476bf39a2e462b049a540db07ee339cb, type: 3}
     Sprites:
     - {fileID: 4319395737909131107, guid: 476bf39a2e462b049a540db07ee339cb, type: 3}
     - {fileID: 21300006, guid: 476bf39a2e462b049a540db07ee339cb, type: 3}
@@ -11780,7 +11753,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: de6ff3101a53ae442832e9623f2d6585, type: 3}
     Multiple: 1
-    Hash: 83cb07d4334e4997cafe70f1d301260d
+    Hash: cc53b588fc7ba93d5298f6524adcc0ad
     Meta: 
     Tags: []
   - Name: EquipmentLootboxB
@@ -11792,7 +11765,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: a618fd39053d3bc42851da01eb854b19, type: 3}
     Multiple: 1
-    Hash: 357d64f346afa07ca3f07d6f1247e152
+    Hash: d8b23540175b59b39c907cc60f3c5cb4
     Meta: 
     Tags: []
   - Name: EquipmentLootboxC
@@ -11804,7 +11777,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: e802d1efcc6683f46b36afc46e672a6d, type: 3}
     Multiple: 1
-    Hash: f246d4c1ca4a5df2ec3c4f9b5305e7a7
+    Hash: 3459c8b43898870b47855c6f28f30dc2
     Meta: 
     Tags: []
   - Name: EquipmentLootboxD
@@ -11816,7 +11789,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 770a4d92ce4e91949998bf1834ff0507, type: 3}
     Multiple: 1
-    Hash: 52ba245cac5639e08fad0f6ee019a663
+    Hash: 3fe242e4136c7c007089103f388a29d8
     Meta: 
     Tags: []
   - Name: EquipmentLootboxE
@@ -11828,7 +11801,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 81c55b74fa364114eae5899da9a77bd0, type: 3}
     Multiple: 1
-    Hash: d7cab94afb979e2baccba529f1ae610c
+    Hash: 7e9402b99155880cea3bb816bd60e712
     Meta: 
     Tags: []
   - Name: EquipmentLootboxF
@@ -11840,7 +11813,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 15e4854d280c5a34c9052107bf71018d, type: 3}
     Multiple: 1
-    Hash: 3a1e3be4379e9507d4f31610cd135c38
+    Hash: 8178d742887b74d8764f04b5641bd3fc
     Meta: 
     Tags: []
   - Name: EquipmentLootboxG
@@ -11852,7 +11825,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: cd6d670cc71e70b46baceae7a6bcc23e, type: 3}
     Multiple: 1
-    Hash: d2bb6346453f5cfffed29a431b870689
+    Hash: 4701d1c57368d019e8d86e6d18898439
     Meta: 
     Tags: []
   - Name: EvilEyeWings
@@ -13088,7 +13061,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: d0923b7a3517be243a823bc9fc98a032, type: 3}
     Multiple: 1
-    Hash: bdbfaa05867b6ba7168310042ba4ba2c
+    Hash: f3a34bd3a2442240901f72772e91d717
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxB
@@ -13100,7 +13073,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: da624d73e5decc9428edd96852bca04b, type: 3}
     Multiple: 1
-    Hash: 19b8b34fde9cf25d02a47117dad9500a
+    Hash: c960212ea9db34de01fd58144619ed7e
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxC
@@ -13112,7 +13085,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: dda766314f30ff44b9a4d45acd38bbbf, type: 3}
     Multiple: 1
-    Hash: 5167c881e15bc6c94f9bcdf30bb1d93f
+    Hash: d4a07be07e3ce384fe0e2c13151a149f
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxD
@@ -13124,7 +13097,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 887c6e8401e04254f899d678b9461713, type: 3}
     Multiple: 1
-    Hash: 351b7b5bbda51d1de2c6bf54ce8ea6ef
+    Hash: 724ede31f12208d6b1bf7a7f39e8e4a6
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxE
@@ -13136,7 +13109,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: c6fecec789058374fbe770cbafe87c41, type: 3}
     Multiple: 1
-    Hash: 0e821ab6d4e64230f669626ed4969d9d
+    Hash: b5b664ef44a0975ff08736a629517f4c
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxF
@@ -13148,7 +13121,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 4be660e6040159e4184f884c5fec7665, type: 3}
     Multiple: 1
-    Hash: 75b05b58b370b357aca9f8147fd08c82
+    Hash: c5c2f85d2a705ee92597c9de8aa9df8f
     Meta: 
     Tags: []
   - Name: RareEquipmentLootboxG
@@ -13160,7 +13133,7 @@ MonoBehaviour:
     Sprites:
     - {fileID: 21300000, guid: 115d5e01113f3a942a6e5c977c3970ce, type: 3}
     Multiple: 1
-    Hash: 8afd33aab9b2c4d2047f10d78bcbf10e
+    Hash: 6bd2aa9596ebea530116a4164a07c533
     Meta: 
     Tags: []
   - Name: RareSupplyLootbox

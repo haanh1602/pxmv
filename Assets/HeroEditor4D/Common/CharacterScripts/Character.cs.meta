@@ -1,11 +1,41 @@
 fileFormatVersion: 2
 guid: aa07006f64294964b84f79497751e149
-timeCreated: 1516790276
-licenseType: Store
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - SpriteCollection: {instanceID: 0}
+  - Hair: {instanceID: 0}
+  - HairCropped: {instanceID: 0}
+  - Beard: {instanceID: 0}
+  - Head: {instanceID: 0}
+  - Helmet: {instanceID: 0}
+  - PrimaryWeapon: {instanceID: 0}
+  - SecondaryWeapon: {instanceID: 0}
+  - Cape: {instanceID: 0}
+  - Back: {instanceID: 0}
+  - Makeup: {instanceID: 0}
+  - Mask: {instanceID: 0}
+  - HeadRenderer: {instanceID: 0}
+  - HairRenderer: {instanceID: 0}
+  - BeardRenderer: {instanceID: 0}
+  - EyebrowsRenderer: {instanceID: 0}
+  - EyesRenderer: {instanceID: 0}
+  - MouthRenderer: {instanceID: 0}
+  - HelmetRenderer: {instanceID: 0}
+  - PrimaryWeaponRenderer: {instanceID: 0}
+  - SecondaryWeaponRenderer: {instanceID: 0}
+  - CapeRenderer: {instanceID: 0}
+  - BackRenderer: {instanceID: 0}
+  - MakeupRenderer: {instanceID: 0}
+  - MaskRenderer: {instanceID: 0}
+  - DefaultMaterial: {instanceID: 0}
+  - EyesPaintMaterial: {instanceID: 0}
+  - EquipmentPaintMaterial: {instanceID: 0}
+  - AnchorBody: {instanceID: 0}
+  - AnchorSword: {instanceID: 0}
+  - AnchorBow: {instanceID: 0}
+  - LayerManager: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

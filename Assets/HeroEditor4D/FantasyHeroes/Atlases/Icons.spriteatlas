@@ -467,6 +467,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a4010a94d9033d847a6f0b33a0976ef8, type: 3}
   - {fileID: 21300000, guid: 1462cd94c76b9dc4cacd4484efb3a11a, type: 3}
   - {fileID: 21300000, guid: a2725e94d937aba45b8ccb48c4063d59, type: 3}
+  - {fileID: 21300000, guid: c4ad51a443c0d9b42b1ffb009e8d6b24, type: 3}
   - {fileID: 21300000, guid: f34e13a4a4179aa4690a5610202d449d, type: 3}
   - {fileID: 21300000, guid: 05d5e4a46e59b5e449c8304370b4d7f4, type: 3}
   - {fileID: 21300000, guid: b48714b4a5da88141acad34aa7a891d3, type: 3}
@@ -816,6 +817,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: eeb8d7685e6213741ba956be07b56773, type: 3}
   - {fileID: 21300000, guid: 8a55596894546d54b899146e9feb7735, type: 3}
   - {fileID: 21300000, guid: 9a85a9682e8a6c849bebfd323d545748, type: 3}
+  - {fileID: 21300000, guid: 6e07d9681e73a0e448cbdc0b88cde435, type: 3}
   - {fileID: 21300000, guid: 5b282d6831e9a9c40b02fdf9a2a07558, type: 3}
   - {fileID: 21300000, guid: 15578f68b003d3c40b706d6118d470ff, type: 3}
   - {fileID: 21300000, guid: dc27c27833a642a418a0ca181e90692a, type: 3}
@@ -955,6 +957,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 10990ee98739dea419776656b8b7f98c, type: 3}
   - {fileID: 21300000, guid: 328be5f9d36668d4ebb01b61128d0d64, type: 3}
   - {fileID: 21300000, guid: 4890c6f943fe7544d8ef93926dc989e1, type: 3}
+  - {fileID: 21300000, guid: f16f38f96e6616a49b55372d1ad85319, type: 3}
   - {fileID: 21300000, guid: 6a0f9cf91f27eca408f9b2010a4a882f, type: 3}
   - {fileID: 21300000, guid: 06b83ef942ef970498b3a3b1ec6f7e20, type: 3}
   - {fileID: 21300000, guid: 7f40940a221173641a705db3e1d40202, type: 3}
@@ -1904,6 +1907,7 @@ SpriteAtlas:
   - WoodenStick
   - Whetstone
   - ElfCostume [ShowEars] [FullHair]
+  - Hair_2 1
   - Type6
   - CasualGirl1 [ShowEars] [FullHair]
   - ReinforcedMace
@@ -2253,6 +2257,7 @@ SpriteAtlas:
   - BlackHammer
   - AlchemistClothes
   - Sword1H
+  - Hair_1 1
   - VineBow
   - Type17
   - BookA
@@ -2392,6 +2397,7 @@ SpriteAtlas:
   - Harpoon
   - UndeadKing
   - Cider
+  - Hair_3 1
   - Meteorite
   - RustedPaleSword
   - BattleBow

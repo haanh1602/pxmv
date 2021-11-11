@@ -7,7 +7,7 @@ public class CreateCharacterController : MonoBehaviour
 
     [SerializeField] private GameObject ChooseCharacterPanel;
     [SerializeField] private GameObject CreateCharacter;
-    
+
     public void OnNewClick()
     {
         CreateCharacter.SetActive(true);
@@ -27,6 +27,4 @@ public class CreateCharacterController : MonoBehaviour
     {
         ChooseCharacterPanel.SetActive(false);
     }
-    
-    
 }

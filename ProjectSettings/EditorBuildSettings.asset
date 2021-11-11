@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HeroEditor4D/CreateCharacter.unity
+    path: Assets/Scenes/CreateCharacter.unity
     guid: 52b07115290a35c429de2000b6f00942
+  - enabled: 1
+    path: Assets/Scenes/PlayScene.unity
+    guid: d57e8ea82cfb0034cb70aed229ba553c
   m_configObjects: {}

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using Assets.HeroEditor4D.Common.CommonScripts;
 using Assets.HeroEditor4D.FantasyInventory.Scripts.Data;
 using HeroEditor4D.Common;
@@ -44,15 +45,18 @@ namespace Assets.HeroEditor4D.Common.CharacterScripts
 
         public void Start()
         {
-            var stateHandler = Animator.GetBehaviours<StateHandler>().SingleOrDefault(i => i.Name == "Death");
+
+	        var stateHandler = Animator.GetBehaviours<StateHandler>().SingleOrDefault(i => i.Name == "Death");
 
             if (stateHandler)
             {
                 stateHandler.StateExit.AddListener(() => SetExpression("Default"));
             }
-
+            
             Animator.keepAnimatorControllerStateOnDisable = true;
             
+            LoadFromJson();
+
             SetDirection(firstDirectionDic[firstDirection]);
         }
 
@@ -77,6 +81,29 @@ namespace Assets.HeroEditor4D.Common.CharacterScripts
 		public override void FromJson(string json, bool silent)
 		{
 		    Parts.ForEach(i => i.LoadFromJson(json, silent));
+		}
+		
+		public void SaveToJson()
+		{
+			StartCoroutine(StandaloneFilePicker.SaveFile("Save as JSON", "", "New character", "json", Encoding.Default.GetBytes(ToJson()), (success, path) => { Debug.Log(success ? $"Saved as {path}" : "Error saving."); }));
+		}
+
+		/// <summary>
+		/// Load character from json.
+		/// </summary>
+		public void LoadFromJson()
+		{
+			var path = Application.persistentDataPath + "/avatar.dat";
+			if (!System.IO.File.Exists(path)) return;
+			StartCoroutine(StandaloneFilePicker.OpenFile("Open as JSON", "", "json", (success, path, bytes) =>
+			{
+				if (success)
+				{
+					var json = System.IO.File.ReadAllText(path);
+
+					FromJson(json, silent: false);
+				}
+			}));
 		}
 
         public Vector2 Direction { get; private set; }
